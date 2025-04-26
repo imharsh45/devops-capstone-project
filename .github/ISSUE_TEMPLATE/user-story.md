@@ -1,4 +1,4 @@
-# Added user story template
+# User story template
 
 **As a** [role]  
 **I need** [function]  
